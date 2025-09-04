@@ -1,23 +1,22 @@
-INTERACTIVE-QUIZ-APPLICATION
+# INTERACTIVE-QUIZ-APPLICATION
 
-Company: CODTECH IT SOLUTIONS
+*Company*: CODTECH IT SOLUTIONS
 
-Name: G Sai Jaswanth
+*Name*: G Sai Jaswanth
 
-Intern ID:CT06DY237
+*Intern ID*:CT06DY237
 
-Domain: Java Programming
+*Domain*: Java Programming
 
-Duration:6 weeks
+*Duration*:6 weeks
 
-Mentor:NEELA SANTOSH
+*Mentor*:NEELA SANTOSH
 
 ##Description:
 
-Platform: Eclipse
+*Platform*: Eclipse
 
-**Task 2: REST API Client - Weather Data Fetcher Application**
-
+Task 2: REST API Client - Weather Data Fetcher Application**
 This Java application serves as a REST API client that consumes weather data from a public API and presents it in a structured, user-friendly format. The program demonstrates core concepts of web service consumption, HTTP request handling, JSON response parsing, and data presentation - all essential skills for modern Java developers working with web services and APIs.
 
 **Technical Implementation:**
