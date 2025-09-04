@@ -33,4 +33,6 @@ The user interface presents the weather information in a clean, structured forma
 This implementation provides hands-on experience with several important Java concepts including network programming, exception handling, string manipulation, and API integration. It demonstrates how to work with RESTful services, process JSON responses, and create presentable output formats. The code maintains good programming practices with proper commenting, method separation, and error management, serving as an excellent learning resource for understanding web API consumption in Java applications.
 
 The solution effectively meets all task requirements by successfully consuming a public REST API, handling HTTP requests, parsing JSON responses, and displaying the data in a structured format suitable for end-users seeking current weather information.
+
 #OUTPUT:
+<img width="793" height="341" alt="Image" src="https://github.com/user-attachments/assets/91c37814-7f25-498f-8ed2-0ae7f2c0783b" />
