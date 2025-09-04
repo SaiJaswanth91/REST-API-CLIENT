@@ -17,6 +17,7 @@
 *Platform*: Eclipse
 
 Task 2: REST API Client - Weather Data Fetcher Application**
+
 This Java application serves as a REST API client that consumes weather data from a public API and presents it in a structured, user-friendly format. The program demonstrates core concepts of web service consumption, HTTP request handling, JSON response parsing, and data presentation - all essential skills for modern Java developers working with web services and APIs.
 
 **Technical Implementation:**
