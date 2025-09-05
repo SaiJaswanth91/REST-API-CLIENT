@@ -36,4 +36,4 @@ This implementation provides hands-on experience with several important Java con
 The solution effectively meets all task requirements by successfully consuming a public REST API, handling HTTP requests, parsing JSON responses, and displaying the data in a structured format suitable for end-users seeking current weather information.
 
 #OUTPUT:
-<img width="793" height="341" alt="Image" src="https://github.com/user-attachments/assets/91c37814-7f25-498f-8ed2-0ae7f2c0783b" />
+<img width="867" height="323" alt="Image" src="https://github.com/user-attachments/assets/6be40621-bd4f-4938-93e0-b780269f953d" />
